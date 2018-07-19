@@ -1,3 +1,4 @@
 This is a simple practise
-asdafafafq
-°¢ÈøµÂKBi111
+
+Git is a distributed version control system.
+Git is free software distributed under the GPL
